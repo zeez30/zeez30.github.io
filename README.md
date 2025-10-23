@@ -145,6 +145,7 @@ Tested and verified on:
 ## Future Enhancements
 
 Planned additions include:
+- Personal Hobbies Section
 - Dark/light mode toggle
 - Project filtering system
 - Blog integration
@@ -155,7 +156,4 @@ Planned additions include:
 
 MIT License - Free to use with attribution
 
----
-
-**Live Site**: [zeez30.github.io/](https://[username].github.io)
 
