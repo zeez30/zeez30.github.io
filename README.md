@@ -157,6 +157,5 @@ MIT License - Free to use with attribution
 
 ---
 
-**Live Site**: [https://[username].github.io](https://[username].github.io)
+**Live Site**: [zeez30.github.io/](https://[username].github.io)
 
-**Contact**: [Your Email] | [LinkedIn] | [GitHub]
